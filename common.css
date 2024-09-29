@@ -1,0 +1,67 @@
+@page {
+    size: 8.5in 11in;
+    margin: 0.75in;
+}
+
+@font-face {
+    font-family: 'Monomakh Unicode';
+    src: url('https://sci.ponomar.net/fonts/MonomakhUnicode.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+kinovar {
+    color: rgb(200,7,3)
+}
+
+h1 {
+    text-align: center;
+    font-size: 200%;
+    margin-bottom: 0;
+    margin-top: 0;
+    break-after: page;
+    max-width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30%;
+}
+h2 {
+    text-align: center;
+    font-size: 180%;
+    margin-bottom: 0.35ex;
+    break-before: page;
+    max-width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+h3 {
+    text-align: center;
+    font-size: 130%;
+    margin-bottom: 0.35ex;
+    margin-top: 0.5ex;
+}
+p {
+    text-indent: 1.5em;
+    font-size: 120%;
+    margin: 0;
+    margin-top: 0.35ex;
+
+}
+.smaller {
+    font-size: 93%;
+}
+
+i {
+    display: block;
+    margin-top: 0.5ex;
+    font-style: italic;
+    break-after: page;
+}
+
+body {
+    font-family: 'PT Sans';
+}
+
+br {
+    margin-bottom: 10ex;
+}
