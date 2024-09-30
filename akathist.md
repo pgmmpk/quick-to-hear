@@ -687,7 +687,7 @@ Rejoice, O purest lily of the field.
 
 Rejoice, light-bearing cloud of heaven, who sanctifiest those zealously seeking purity.
 
-<span class="small">Rejoice, living scroll of God's Wisdom, making wise them that strive in charity.</span>
+<span class="smaller">Rejoice, living scroll of God's Wisdom, making wise them that strive in charity.</span>
 
 Rejoice, intercessor for the salvation of monastics who put forth a good spiritual effort.
 
@@ -701,7 +701,7 @@ Rejoice, ideal teacher of virgins and motherless orphans.
 
 Rejoice, contentment for the chorus of virgins, inspiring love of the eternal Bridegroom.
 
-<span class="small">Rejoice, powerful champion in the relentless war against the passions of the flesh.</span>
+<span class="smaller">Rejoice, powerful champion in the relentless war against the passions of the flesh.</span>
 
 Rejoice, vigilant guardian of monastic habitations.
 
