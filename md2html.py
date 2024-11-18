@@ -21,6 +21,11 @@ def main(infile):
             yield f'<h1>{b[2:]}</h1>\n'
         elif b.startswith('**') and b.endswith('**'):
             yield f'<i>{b[2:-2]}</i>\n'
+        elif b.startswith('![') and b.endswith(')'):
+            mtc = re.match(r'^!\[(.+?)\]\((.+?)\)$', b)
+            if mtc is None:
+                raise ValueError('Failed to parse image\n' + b)
+            yield f'<img alt="{mtc.group(1)}" src="{mtc.group(2)}" />\n'
         else:
             yield f'<p>{b}</p>'
 

@@ -1,6 +1,10 @@
 # Акафист Пресвятой Богородице перед иконой «Скоропослушница»
 
+![link](akathist-link-short.png)
+
 # Akathist Hymn to the Most Holy Theotokos in Honor of Her Icon "She Who Is Quick to Hear"
+
+![link](akathist-link-short.png)
 
 ## Кондак 1
 
